@@ -1,5 +1,4 @@
 # VesselRegistrationNumberDetection
 Repository for a project on vessel number registration
 
-https://youtu.be/59PRvwtp10A
-[![image of a boat](./untitled.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/59PRvwtp10A))
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/59PRvwtp10A/0.jpg)]([http://www.youtube.com/watch?v=59PRvwtp10A](https://www.youtube.com/watch?v=59PRvwtp10A) "Vessel Registration Number OCR demo")
